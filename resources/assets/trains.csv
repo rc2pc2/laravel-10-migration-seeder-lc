@@ -1,0 +1,7 @@
+company,departing_station,arriving_station,departing_time,arriving_time,train_code,wagons_no,on_time,cancelled
+tranitalia,roma,milano,10:00:00,12:00:00,AB123,8,1,0
+tranitalia,milano,napoli,10:00:00,12:00:00,AB124,8,1,0
+tranitalia,napoli,roma,10:00:00,12:00:00,AB125,8,1,0
+tranitalia,roma,milano,10:00:00,12:00:00,AB126,10,1,0
+tranitalia,milano,napoli,10:00:00,12:00:00,AB127,10,1,0
+tranitalia,napoli,roma,10:00:00,12:00:00,AB128,10,0,1

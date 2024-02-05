@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Guest;
 
+use App\Helpers\Reader;
 use App\Http\Controllers\Controller;
 use App\Models\Train;
 use Illuminate\Http\Request;
