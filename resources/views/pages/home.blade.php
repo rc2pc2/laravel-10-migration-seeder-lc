@@ -2,6 +2,6 @@
 
 @section('main-content')
     <h1>
-        Home
+        HOME
     </h1>
 @endsection
